@@ -62,7 +62,7 @@
           <li>
             Fill in three fields. The first field is just a description and you can fill in anything. The next two
             fields are very important. Fill them in with <code>{VENDOR_ID}</code> and <code>{PRODUCT_ID}</code>
-            respectively. Press "Install Driver" and give it a few minutes to install.
+            respectively. Press "Install Driver\" and give it a few minutes to install.
             <img
               src={zadigForm}
               alt="Zadig Form"
